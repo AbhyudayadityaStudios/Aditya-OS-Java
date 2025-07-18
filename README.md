@@ -2,8 +2,9 @@
 
 <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/AdityaOS/Aditya-OS-Java?color=%238a2be2"> <img alt="GitHub Release" src="https://img.shields.io/github/v/release/AdityaOS/Aditya-OS-Java?color=%23a9e43a"> <img alt="GitHub License" src="https://img.shields.io/github/license/AdityaOS/Aditya-OS-Java?color=blue"> <img alt="engine" src="https://img.shields.io/badge/engine-Scratch 1.4-orange">
 
+<img src="https://github.com/AdityaOS/Aditya-OS-Java/blob/master/.github/logo.png" alt="icon" width="360">
 
-An Aditya OS build with minimal features built for Java. Requires Java Player or JRE (Java Runtime Environment). The final update of Aditya OS Java (Π, Pi, v1.2.0) was added to Aditya OS B.
+An Aditya OS build with minimal features built for Java. Requires Java Player or JRE (Java Runtime Environment). The final update of Aditya OS Java (Π, Pi, v1.2.0) was added to Aditya OS B (Beta, v3.0.0) as Galacticia Simple.
 
 ### Tutorial to open it
 
